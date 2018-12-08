@@ -1,0 +1,10 @@
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\bin\Release\BlackjackConsole.exe.config
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\bin\Release\BlackjackConsole.exe
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\bin\Release\BlackjackConsole.pdb
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\bin\Release\Blackjack.dll
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\bin\Release\Blackjack.pdb
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\obj\Release\BlackjackConsole.csprojAssemblyReference.cache
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\obj\Release\BlackjackConsole.csproj.CoreCompileInputs.cache
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\obj\Release\BlackjackConsole.csproj.CopyComplete
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\obj\Release\BlackjackConsole.exe
+C:\Users\Shiroie\Desktop\Blackjack-master\BlackjackConsole\obj\Release\BlackjackConsole.pdb

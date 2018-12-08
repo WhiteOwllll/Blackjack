@@ -1,0 +1,6 @@
+C:\Users\Shiroie\Desktop\Blackjack-master\Blackjack\bin\Release\Blackjack.dll
+C:\Users\Shiroie\Desktop\Blackjack-master\Blackjack\bin\Release\Blackjack.pdb
+C:\Users\Shiroie\Desktop\Blackjack-master\Blackjack\obj\Release\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Shiroie\Desktop\Blackjack-master\Blackjack\obj\Release\Blackjack.dll
+C:\Users\Shiroie\Desktop\Blackjack-master\Blackjack\obj\Release\Blackjack.pdb
+C:\Users\Shiroie\Desktop\Blackjack-master\Blackjack\obj\Release\Blackjack.csprojAssemblyReference.cache
